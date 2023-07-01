@@ -2,16 +2,10 @@ Todo:
 Check the whole website
 
 Frontend:
-Back2top
-Adding Js file
 owl-carousel issue(After Prac)
 
-Backend:(After Pracs)
-DB using Node.js
-
 Style:
-Changing shop name (Aish)
-Change IcecreamNames
+
 
 
 
