@@ -1,0 +1,54 @@
+  {
+      "details": {
+       "proddetails": [
+        {
+         "id": "1",
+         "name": "Chocolate",
+         "price": "80",
+         "img":"img/Chocolate.png"
+        },
+      {
+         "id": "2",
+         "name": "Vanilla",
+         "price": "80",
+         "img":"img/vanilla.png"
+        },
+      {
+         "id": "3",
+         "name": "ButterScotch",
+         "price": "80",
+         "img":"img/Butterscotch.png"
+        },
+      {
+         "id": "4",
+         "name": "Hazelnut",
+         "price": "80",
+         "img":"img/Hazelnut.png"
+        },
+      {
+         "id": "5",
+         "name": "Strawberry",
+         "price": "80",
+         "img":"img/Strawberry.png"
+        },
+      {
+         "id": "6",
+         "name": "Blueberry",
+         "price": "80",
+         "img":"img/Blueberry.png"
+        },
+      {
+         "id": "7",
+         "name": "Pistachio",
+         "price": "80",
+         "img":"img/Pistachio.png"
+        },
+      {
+         "id": "8",
+         "name": "Alphonso",
+         "price": "80",
+         "img":"img/Alphonso.png"
+        }
+         ]
+       }
+      }
